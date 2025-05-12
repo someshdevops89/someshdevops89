@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @someshdevops89
+- 👋 Hi, I’m @devops89
 - 👀 I’m interested in trading
 - 🌱 I’m currently learning cloud computing and devops
 - 💞️ I’m looking to collaborate on github
